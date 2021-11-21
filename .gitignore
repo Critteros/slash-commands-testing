@@ -4,3 +4,5 @@ dist
 *.pem
 secrets
 db/*
+sandbox.ts
+image.png
